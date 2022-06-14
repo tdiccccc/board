@@ -3,7 +3,8 @@ const express = require("express");
 const mongoose = require("mongoose");
 const app = express();
 
-// const Thread = require("./models/Thread");
+// const Thread = require("./models/Thread"); node.jsのdownloadの場所が違う可能性があり、エラー
+
 
 const PORT = 3000;
 
